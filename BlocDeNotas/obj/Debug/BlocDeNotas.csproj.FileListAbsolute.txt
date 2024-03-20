@@ -1,0 +1,15 @@
+D:\1_DAW\Programación\WindowsForms\BlocDeNotas\BlocDeNotas\bin\Debug\BlocDeNotas.exe.config
+D:\1_DAW\Programación\WindowsForms\BlocDeNotas\BlocDeNotas\bin\Debug\BlocDeNotas.exe
+D:\1_DAW\Programación\WindowsForms\BlocDeNotas\BlocDeNotas\bin\Debug\BlocDeNotas.pdb
+D:\1_DAW\Programación\WindowsForms\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.csproj.AssemblyReference.cache
+D:\1_DAW\Programación\WindowsForms\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.Form1.resources
+D:\1_DAW\Programación\WindowsForms\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.Properties.Resources.resources
+D:\1_DAW\Programación\WindowsForms\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.csproj.GenerateResource.cache
+D:\1_DAW\Programación\WindowsForms\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.csproj.CoreCompileInputs.cache
+D:\1_DAW\Programación\WindowsForms\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.exe
+D:\1_DAW\Programación\WindowsForms\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNotas.pdb
+D:\1_DAW\Programación\WindowsForms\BlocDeNotas\BlocDeNotas\bin\Debug\DocumentFormat.OpenXml.dll
+D:\1_DAW\Programación\WindowsForms\BlocDeNotas\BlocDeNotas\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\1_DAW\Programación\WindowsForms\BlocDeNotas\BlocDeNotas\bin\Debug\DocumentFormat.OpenXml.xml
+D:\1_DAW\Programación\WindowsForms\BlocDeNotas\BlocDeNotas\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\1_DAW\Programación\WindowsForms\BlocDeNotas\BlocDeNotas\obj\Debug\BlocDeNo.E64DD5A6.Up2Date
